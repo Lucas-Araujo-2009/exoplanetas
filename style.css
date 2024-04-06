@@ -14,12 +14,12 @@
 }
 
 body{
-  background: url("Imagens/background-fundo-ceu-preto.jpeg");
+  background: url("background-fundo-ceu-preto.jpeg");
   animation: fade 1.5s linear;
 }
 
 .header-bar{
-  background-image: image-set("Imagens/Planeta.jpeg");
+  background-image: image-set("Planeta.jpeg");
   display: flex;
   background-position: start;
   
